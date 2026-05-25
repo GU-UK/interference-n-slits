@@ -24,7 +24,7 @@
 <p align="center">
   <img
     src="assets/screenshots/mono.png"
-    width="900"
+    width="800"
   >
 </p>
 
@@ -37,7 +37,7 @@
 <p align="center">
   <img
     src="assets/screenshots/quasi.png"
-    width="900"
+    width="800"
   >
 </p>
 
@@ -50,9 +50,11 @@
 <p align="center">
   <img
     src="assets/gifs/spectrum_width.gif"
-    width="900"
+    width="800"
   >
 </p>
+
+При увеличении ширины спектра наблюдается постепенное уменьшение контраста интерференционной картины, а также появление цветового разделения и размытия максимумов.
 
 ---
 
