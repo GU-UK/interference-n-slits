@@ -239,11 +239,9 @@ interference-n-slits
 │   ├── interactive.py
 │   └── animation.py
 │
-├── assets
-│   ├── screenshots
-│   └── gifs
-│
-└── report
+└── assets
+    ├── screenshots
+    └── gifs
 ```
 
 ---
